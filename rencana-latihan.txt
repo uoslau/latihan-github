@@ -5,3 +5,6 @@ rencana latihan
 - belajar TA & FA
   - belajar MA & EMA
   - belajar RSI
+  - belajar EW
+  - belajar S & R
+  - belajar FR
