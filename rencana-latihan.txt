@@ -3,3 +3,6 @@ rencana latihan
   - untuk project
 - belajar git
 - belajar TA & FA
+  - belajar EW
+  - belajar S & R
+  - belajar FR
