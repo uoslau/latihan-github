@@ -1,0 +1,3 @@
+rencana latihan
+- belajar laravel
+- belajar git
