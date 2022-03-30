@@ -1,3 +1,4 @@
 Latihan GitHub
 - Membuat repositori
 - Membuat file baru
+- Mengedit file
